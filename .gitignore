@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+package-lock.json
+.env
+
+# Rust
+/target/
+/Cargo.lock
+
+# Environment Variables
+.env
